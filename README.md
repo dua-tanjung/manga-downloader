@@ -11,7 +11,7 @@ running this program, it's easy to install.
 - Extract to your HDD
 - Replace 'www' folders contents with manga-downloader
 - Create sub folder '__data' in 'www' folder.
-- Run the executable file
+- Run the executable file (from PHP Desktop)
 
 Ofcourse you can use any PHP package (Xampp, Wamp, etc).
 
